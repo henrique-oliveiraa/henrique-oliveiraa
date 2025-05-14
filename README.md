@@ -1,16 +1,22 @@
-## Hi there 👋
+👨‍💻 My name is Henrique de olviera, I'm 19 years old.
+Information Technology student.
 
-<!--
-**henrique-oliveiraa/henrique-oliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Languages: Portuguese (native) and English (intermediate).
 
-Here are some ideas to get you started:
+Technologies I use in my daily life
+html5 css js ts react nodejs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Developer with 2 years of experience.
+
+
+
+<a href="mailto:oliveira.henr@hotmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,github,vscode,html,java,nodejs,windows,php,javascript,laravel,bootstrap,react,css" />
+  </a>
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
