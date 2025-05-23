@@ -6,7 +6,7 @@ Information Technology student.
 Technologies I use in my daily life
 html5 css js ts react nodejs
 
-💻 Developer with 2 years of experience.
+💻 Developer with 1 years of experience.
 
 
 
